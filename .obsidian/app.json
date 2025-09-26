@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "images",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "spellcheck": true
+}

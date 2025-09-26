@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "4a6ea13458c65091",
+    "type": "split",
+    "children": [
+      {
+        "id": "feb997e8f22985f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be72dea1fdfd7930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          },
+          {
+            "id": "2558262fef58736c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git_GPU요리하기1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git_GPU요리하기1"
+            }
+          },
+          {
+            "id": "31ba2f197d0e17ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git_GPU요리하기2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git_GPU요리하기2"
+            }
+          },
+          {
+            "id": "d5de6ff900776066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git_GPU요리하기3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git_GPU요리하기3"
+            }
+          },
+          {
+            "id": "28ec8c62fc7fbdd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdfba6858738b5db",
+    "type": "split",
+    "children": [
+      {
+        "id": "90c58c2444929f6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe96532d1e67701",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "5e03fc932aaf4410",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "3179eceb006b2050",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "656f75044b748603",
+    "type": "split",
+    "children": [
+      {
+        "id": "258bcc00d9b4f06e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31de5a50d4e21f13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "9a0855a4808a16c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "99e2de18515f4262",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "e1354d5d19ff8a34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "28ec8c62fc7fbdd5",
+  "lastOpenFiles": [
+    "git_GPU요리하기4.md",
+    "git_GPU요리하기3.md",
+    "git_GPU요리하기2.md",
+    "git_GPU요리하기1.md",
+    "README.md.md",
+    "images/Pasted image 20250926161927.png",
+    "images/Pasted image 20250926161858.png",
+    "images/Pasted image 20250926161817.png",
+    "images/Pasted image 20250926161733.png",
+    "images/Pasted image 20250926161635.png",
+    "images/Pasted image 20250926161554.png",
+    "images/Pasted image 20250926161509.png",
+    "images/Pasted image 20250926161322.png",
+    "images/Pasted image 20250926161230.png",
+    "images/Pasted image 20250926161117.png",
+    "images",
+    "새 폴더"
+  ]
+}
