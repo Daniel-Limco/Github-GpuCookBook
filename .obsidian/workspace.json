@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "git_GPU요리하기4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "git_GPU요리하기4"
             }
           }
         ],
@@ -225,11 +225,12 @@
   },
   "active": "28ec8c62fc7fbdd5",
   "lastOpenFiles": [
+    "README.md.md",
+    "README.md",
     "git_GPU요리하기4.md",
     "git_GPU요리하기3.md",
     "git_GPU요리하기2.md",
     "git_GPU요리하기1.md",
-    "README.md.md",
     "images/Pasted image 20250926161927.png",
     "images/Pasted image 20250926161858.png",
     "images/Pasted image 20250926161817.png",
