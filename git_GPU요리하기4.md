@@ -7,7 +7,7 @@
 3강의 최적화를 통해 GPU의 계산 효율은 크게 높아졌습니다. 하지만 Nsight Systems 프로파일을 더 깊이 들여다보면, 여전히 안타까운 장면들이 보입니다.
 
 [![](images/Pasted%20image%2020250926161509.png)]
-
+[▶️Download Nsight report file](materials/bad_report_hw.nsys-rep)
 - 데이터를 전송하는 동안에는 GPU 연산 코어가 놉니다.
     
 - 연산을 하는 동안에는 데이터 전송 통로(PCIe 버스)와 CPU가 놉니다.
@@ -81,7 +81,7 @@ CUDA 스트림을 주방에 비유하면 다음과 같습니다.
 **3. 결과: 100% 가동되는 완벽한 파이프라인**
 
 [![](images/Pasted%20image%2020250926161927.png)]
-
+[▶️Download Nsight report file](materials/good_report_hw.nsys-rep)
 비동기 스트림을 적용한 후의 프로파일은 예술 그 자체입니다.
 
 - **계단식 파이프라인:** 데이터 전송(HtoD), 커널 실행, 결과 전송(DtoH)이 서로 다른 스트림에서 맞물려 돌아가며 빈틈없이 실행됩니다 (완벽한 오버랩).
